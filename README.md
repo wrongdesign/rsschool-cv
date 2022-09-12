@@ -1,1 +1,1 @@
-https://wrongdesign.github.io/rsschool-cv/cv
+https://wrongdesign.github.io/rsschool-cv/
